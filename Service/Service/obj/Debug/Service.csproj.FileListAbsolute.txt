@@ -1,0 +1,31 @@
+C:\Users\valen\source\repos\Service\Service\bin\Service.dll.config
+C:\Users\valen\source\repos\Service\Service\bin\Service.dll
+C:\Users\valen\source\repos\Service\Service\bin\Service.pdb
+C:\Users\valen\source\repos\Service\Service\bin\MySql.Data.dll
+C:\Users\valen\source\repos\Service\Service\bin\Google.Protobuf.dll
+C:\Users\valen\source\repos\Service\Service\bin\MySql.Data.xml
+C:\Users\valen\source\repos\Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Service\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\valen\source\repos\Service\Service\obj\Debug\Service.dll
+C:\Users\valen\source\repos\Service\Service\obj\Debug\Service.pdb
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\bin\Service.dll.config
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\bin\Service.dll
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\bin\Service.pdb
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\bin\Google.Protobuf.dll
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\bin\MySql.Data.xml
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\obj\Debug\Service.dll
+C:\Users\Axel\Desktop\Aide Projet PHP - Arthur\Service\Service\obj\Debug\Service.pdb
+C:\Users\Axel\source\repos\Service\Service\bin\Service.dll.config
+C:\Users\Axel\source\repos\Service\Service\bin\Service.dll
+C:\Users\Axel\source\repos\Service\Service\bin\Service.pdb
+C:\Users\Axel\source\repos\Service\Service\bin\Google.Protobuf.dll
+C:\Users\Axel\source\repos\Service\Service\bin\MySql.Data.xml
+C:\Users\Axel\source\repos\Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Service\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Axel\source\repos\Service\Service\obj\Debug\Service.dll
+C:\Users\Axel\source\repos\Service\Service\obj\Debug\Service.pdb

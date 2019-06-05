@@ -1,0 +1,33 @@
+body{
+ background: url("medic2.jpg") no-repeat;
+ background-size: 100%;
+ /*background-image:url(../Style/fond.png);
+ background-size: 100%;*/
+}
+table {
+ border-collapse:collapse;
+ width:90%;
+ }
+th, td {
+ border:1px solid black;
+ width:20%;
+ color: #9d9d9d;
+ }
+td {
+ text-align:center;
+ }
+caption {
+ font-weight:bold
+ }
+h1 {
+ font-size: 50px;
+ margin-top: 75px;
+ color: #fff;
+}
+h3 {
+ color: #fff;
+}
+.btn-info {
+	background-color:;
+	border-color:;
+}
